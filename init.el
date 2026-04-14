@@ -1,6 +1,6 @@
 (menu-bar-mode 0)
 (tool-bar-mode 0)
-(column-number-mode 0)
+(column-number-mode 1)
 ;(global-display-line-numbers-mode 1)
 ;(ido-mode 1)
 (setq c-basic-offset 4)
